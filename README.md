@@ -30,14 +30,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 As an Admin I configured Agents' Roles for grouping permissions, Departments for ticket visibility (Help Desk vs SysAdmins, vs Networking), & Teams for pulling agents from different departments.
-
 </p>
 <br />
 
 ![post 2](https://github.com/user-attachments/assets/f7e36d99-6d1f-4d05-9ef3-3e34765cb09d)
 
 <p>
-I then created 2 New Agents, Jane & John Doe. Assigned them to their respective departments, granted them different access, & reset their passwords.
+I created 2 New Agents, Jane & John Doe. Assigned them to their respective departments, granted them different access, & reset their passwords.
+</p>
+<br />
+
+![post 3](https://github.com/user-attachments/assets/cb1c9572-c2af-4bfb-a782-ee28494fc4e3)
+
+<p>
+After that I created 2 guest users, Karen & Ken.
 </p>
 <br />
 
