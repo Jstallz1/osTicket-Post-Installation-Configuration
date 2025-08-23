@@ -39,9 +39,8 @@ As an Admin I configured Agents' Roles for grouping permissions, Departments for
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![post 2](https://github.com/user-attachments/assets/f7e36d99-6d1f-4d05-9ef3-3e34765cb09d)
+
 <p>
 I then created 2 New Agents, Jane & John Doe. Assigned them to their respective departments, granted them different access, & reset their passwords.
 </p>
