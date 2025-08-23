@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-![post 5](https://github.com/user-attachments/assets/e543294e-116f-47d1-9dd7-ebc9fb8408a2)
+![post 1](https://github.com/user-attachments/assets/da022d0e-cf5a-4698-9b88-7663c1e313d3)
 
 <p>
 As an Admin I configured Agents' Roles for grouping permissions, Departments for ticket visibility (Help Desk vs SysAdmins, vs Networking), & Teams for pulling agents from different departments.
