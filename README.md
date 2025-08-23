@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,9 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![post 5](https://github.com/user-attachments/assets/e543294e-116f-47d1-9dd7-ebc9fb8408a2)
+
 <p>
 As an Admin I configured Agents' Roles for grouping permissions, Departments for ticket visibility (Help Desk vs SysAdmins, vs Networking), & Teams for pulling agents from different departments.
 
@@ -46,25 +41,15 @@ I then created 2 New Agents, Jane & John Doe. Assigned them to their respective 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In the Agent Panel I then added 2 New Users, Ken & Karen.
-</p>
-<br />
+![post 5](https://github.com/user-attachments/assets/e543294e-116f-47d1-9dd7-ebc9fb8408a2)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Then back on the Admin Panel, I created 3 New SLA Plans. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), & Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![post 5](https://github.com/user-attachments/assets/e543294e-116f-47d1-9dd7-ebc9fb8408a2)
+
 <p>
 Lastly, I created 5 new Help Topics for when users create a ticket. Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, & Other. 
 </p>
