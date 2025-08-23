@@ -41,7 +41,7 @@ I then created 2 New Agents, Jane & John Doe. Assigned them to their respective 
 </p>
 <br />
 
-![post 5](https://github.com/user-attachments/assets/e543294e-116f-47d1-9dd7-ebc9fb8408a2)
+![post 4](https://github.com/user-attachments/assets/0e9615e3-b575-46ab-97fd-8900ee590a29)
 
 <p>
 Then back on the Admin Panel, I created 3 New SLA Plans. Sev-A (Grace Period: 1 hour, Schedule: 24/7), Sev-B (Grace Period: 4 hours, Schedule: 24/7), & Sev-C (Grace Period: 8 hours, Business Hours)
